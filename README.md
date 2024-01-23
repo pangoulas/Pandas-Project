@@ -7,3 +7,7 @@ and understand their meanings. Look for any initial patterns or trends that migh
 
 ## Dataset used
 [TED Talks dataset](https://www.kaggle.com/datasets/rounakbanik/ted-talks) from Kaggle in a csv format, ted.csv
+
+## Jupyter noteboon and csv files
+
+[Ted csv](https://github.com/pangoulas/Pandas-Project/blob/main/ted.csv)_
