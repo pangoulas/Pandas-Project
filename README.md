@@ -11,3 +11,5 @@ and understand their meanings. Look for any initial patterns or trends that migh
 ## Jupyter noteboon and csv files
 
 [Ted csv](https://github.com/pangoulas/Pandas-Project/blob/main/ted.csv)_
+
+[Jupyter notebook](https://github.com/pangoulas/Pandas-Project/blob/main/Ted%20talks%20project%20presentation.ipynb)
